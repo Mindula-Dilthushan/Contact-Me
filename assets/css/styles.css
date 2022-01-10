@@ -1,3 +1,10 @@
+.txt{
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+}
 .btn{
     width: 100%;
+}
+.formsBorder{
+    border: none;
 }
